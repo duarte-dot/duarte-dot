@@ -1,7 +1,7 @@
 ### Oi 👋
 
 <div>
-<img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e47z2pgmv6xdwhmxml25c3bb884l4vq5lwbyb3nm6sq&rid=giphy.gif&ct=s" width="200" align="right"/>
+<img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e47z2pgmv6xdwhmxml25c3bb884l4vq5lwbyb3nm6sq&rid=giphy.gif&ct=s" width="300" align="right"/>
 <p align="left">
 Meu nome é Gabriel Duarte, tenho 20 anos. <br> <br>
   
