@@ -3,7 +3,8 @@
 <div>
 <img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e47z2pgmv6xdwhmxml25c3bb884l4vq5lwbyb3nm6sq&rid=giphy.gif&ct=s" width="200" align="right"/>
 <p align="left">
-Meu nome é Gabriel Duarte, tenho 20 anos. 👨‍💻 Sou desenvolvedor web Fullstack em formação na Trybe e atualmente estou aprofundando meus conhecimentos em Back-end. No entanto, amo a experiência que tive até então com Frontend e minha parte preferida é mexer com CSS e a parte visual das coisas! <br> <br>
+Meu nome é Gabriel Duarte, tenho 20 anos. <br> <br>
+  - 👨‍💻 Sou desenvolvedor web Fullstack em formação na Trybe e atualmente estou aprofundando meus conhecimentos em Back-end. No entanto, amo a experiência que tive até então com Frontend e minha parte preferida é mexer com CSS e a parte visual das coisas! <br>
   - 📌 Moro no <strong>Rio de Janeiro:</strong> 🎶 cidade maravilhosa! <br> 
   - 📽️ Também gosto muito de audiovisual e edição de vídeo!<br>
 </p>
