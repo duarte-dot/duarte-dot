@@ -13,21 +13,21 @@ Meu nome é Gabriel Duarte, tenho 20 anos. <br> <br>
 
 ## 🔥 Linguagens e ferramentas
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-bottom: 4px;" height="30px">
-  <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin-bottom: 4px;" height="30px">
-  <img alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img alt="react testing library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" style="margin-bottom: 4px;" height="30px">
-  <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img alt="react router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img alt="vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img alt="npm" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img alt="node" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" style="margin-bottom: 4px;" height="30px">
+  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="25px">
+  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="25px">
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-bottom: 4px;" height="25px">
+  <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin-bottom: 4px;" height="25px">
+  <img alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" style="margin-bottom: 4px;" height="25px">
+  <img alt="react testing library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" style="margin-bottom: 4px;" height="25px">
+  <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="25px">
+  <img alt="react router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" style="margin-bottom: 4px;" height="25px">
+  <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" style="margin-bottom: 4px;" height="25px">
+  <img alt="vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" style="margin-bottom: 4px;" height="25px">
+  <img alt="npm" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" style="margin-bottom: 4px;" height="25px">
+  <img alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="margin-bottom: 4px;" height="25px">
+  <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" style="margin-bottom: 4px;" height="25px">
+  <img alt="node" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" style="margin-bottom: 4px;" height="25px">
+  <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" style="margin-bottom: 4px;" height="25px">
 </p>
 
 ## 📈 GitHub Stats
