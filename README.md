@@ -28,6 +28,8 @@ Meu nome é Gabriel Duarte, tenho 20 anos. <br> <br>
   <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" style="margin-bottom: 4px;" height="25px">
   <img alt="node" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" style="margin-bottom: 4px;" height="25px">
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" style="margin-bottom: 4px;" height="25px">
+  <img alt="mocha" src="https://img.shields.io/badge/Mocha-8D6748.svg?style=for-the-badge&logo=Mocha&logoColor=white" style="margin-bottom: 4px;" height="25px">
+  <img alt="chai" src="https://img.shields.io/badge/Chai-A30701.svg?style=for-the-badge&logo=Chai&logoColor=white" style="margin-bottom: 4px;" height="25px">
 </p>
 
 ## 📈 GitHub Stats
