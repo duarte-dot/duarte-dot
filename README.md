@@ -5,9 +5,10 @@
 <p align="left">
 Meu nome é Gabriel Duarte, tenho 20 anos. <br> <br>
   
-  - 👨‍💻 Sou desenvolvedor web Fullstack em formação na Trybe e atualmente estou aprofundando meus conhecimentos em Backend. No entanto, amo a experiência que tive até então com Frontend e minha parte preferida é mexer com CSS e a parte visual das coisas. <br>
-  - 📌 Moro no <strong>Rio de Janeiro:</strong> 🏙️ cidade maravilhosa 🎶 <br> 
-  - 📽️ Também gosto muito de audiovisual e edição de vídeo!<br>
+  - 👨‍💻 Sou desenvolvedor web Fullstack em formação na Trybe e atualmente estou aprofundando meus conhecimentos em Backend. <br>
+  - 🤝 Tenho habilidades em trabalho em equipe, gestão de tempo e solução de problemas, o que me permite colaborar efetivamente em projetos em grupo. <br> 
+  - 📽️ Fora da programação, sou apaixonado por edição de vídeo e cinema! <br>
+  - 🚀 Estou sempre em busca de novos desafios e oportunidades, por isso, se quiser saber mais sobre mim ou como posso ajudar em seu projeto, sinta-se à vontade para entrar em contato!
 </p>
 </div>
 
