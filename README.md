@@ -9,12 +9,8 @@
     - 📽️ Outside of programming, I'm passionate about video editing and cinema! <br>
     - 🚀 I'm always seeking new challenges and opportunities, so if you want to know more about me or how I can help with your project, feel free to get in touch! 
     <br> <br> <br>
-  </p>
-</div>
-  
-<p align="center">
     <a align="center" href="https://duarte-dot.surge.sh"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="30px" target="_blank"></a>
-</p>
+  </p>
 </div>
 
 ## 🔥 Languages and Tools
