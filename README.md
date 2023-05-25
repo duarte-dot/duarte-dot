@@ -5,10 +5,10 @@
 <p align="left">
 My name is Gabriel Duarte, and I'm 20 years old. <br> <br>
 
-👨‍💻 I'm a Full Stack web developer in training at Trybe, currently focusing on deepening my knowledge in Backend development. <br>
-🤝 I possess skills in teamwork, time management, and problem-solving, which allows me to effectively collaborate on group projects. <br>
-📽️ Outside of programming, I'm passionate about video editing and cinema! <br>
-🚀 I'm always seeking new challenges and opportunities, so if you want to know more about me or how I can help with your project, feel free to get in touch! 
+- 👨‍💻 I'm a Full Stack web developer in training at Trybe, currently focusing on deepening my knowledge in Backend development. <br>
+- 🤝 I possess skills in teamwork, time management, and problem-solving, which allows me to effectively collaborate on group projects. <br>
+- 📽️ Outside of programming, I'm passionate about video editing and cinema! <br>
+- 🚀 I'm always seeking new challenges and opportunities, so if you want to know more about me or how I can help with your project, feel free to get in touch! 
   <br> <br> <br>
 </p>
   
