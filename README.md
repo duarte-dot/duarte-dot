@@ -1,16 +1,16 @@
 ### Hi 👋 
 
 <div>
-<img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e47z2pgmv6xdwhmxml25c3bb884l4vq5lwbyb3nm6sq&rid=giphy.gif&ct=s" width="350" align="right"/>
-<p align="left">
-My name is Gabriel Duarte, and I'm 20 years old. <br> <br>
-
-- 👨‍💻 I'm a Full Stack web developer in training at Trybe, currently focusing on deepening my knowledge in Backend development. <br>
-- 🤝 I possess skills in teamwork, time management, and problem-solving, which allows me to effectively collaborate on group projects. <br>
-- 📽️ Outside of programming, I'm passionate about video editing and cinema! <br>
-- 🚀 I'm always seeking new challenges and opportunities, so if you want to know more about me or how I can help with your project, feel free to get in touch! 
-  <br> <br> <br>
-</p>
+  <img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e47z2pgmv6xdwhmxml25c3bb884l4vq5lwbyb3nm6sq&rid=giphy.gif&ct=s" width="350" align="right" style="margin-left: 20px;">
+  <p align="left">
+    My name is Gabriel Duarte, and I'm 20 years old. <br> <br>
+    - 👨‍💻 I'm a Full Stack web developer in training at Trybe, currently focusing on deepening my knowledge in Backend development. <br>
+    - 🤝 I possess skills in teamwork, time management, and problem-solving, which allows me to effectively collaborate on group projects. <br>
+    - 📽️ Outside of programming, I'm passionate about video editing and cinema! <br>
+    - 🚀 I'm always seeking new challenges and opportunities, so if you want to know more about me or how I can help with your project, feel free to get in touch! 
+    <br> <br> <br>
+  </p>
+</div>
   
 <p align="center">
     <a align="center" href="https://duarte-dot.surge.sh"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="30px" target="_blank"></a>
