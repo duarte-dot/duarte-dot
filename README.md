@@ -3,6 +3,7 @@
 <div>
 <img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e47z2pgmv6xdwhmxml25c3bb884l4vq5lwbyb3nm6sq&rid=giphy.gif&ct=s" width="350" align="right"/>
 <p align="left">
+  <br>
 My name is Gabriel Duarte, and I'm 20 years old. <br> <br>
 
 - 👨‍💻 I'm a Full Stack web developer in training at Trybe, currently focusing on deepening my knowledge in Backend development. <br>
