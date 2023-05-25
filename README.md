@@ -1,7 +1,7 @@
 ### Hi 👋 
 
 <div>
-<img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e47z2pgmv6xdwhmxml25c3bb884l4vq5lwbyb3nm6sq&rid=giphy.gif&ct=s" width="350" align="right"/>
+<img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e47z2pgmv6xdwhmxml25c3bb884l4vq5lwbyb3nm6sq&rid=giphy.gif&ct=s" width="350" align="right" margin-left="10px"/>
 <p align="left">
 My name is Gabriel Duarte, and I'm 20 years old. <br> <br>
 
