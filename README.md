@@ -1,18 +1,21 @@
-### Oi 👋
+### Hi 👋 
 
 <div>
 <img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e47z2pgmv6xdwhmxml25c3bb884l4vq5lwbyb3nm6sq&rid=giphy.gif&ct=s" width="300" align="right"/>
 <p align="left">
-Meu nome é Gabriel Duarte, tenho 20 anos. <br> <br>
+My name is Gabriel Duarte, and I'm 20 years old. <br> <br>
+
+- 👨‍💻 I'm a Full Stack web developer in training at Trybe, currently focusing on deepening my knowledge in Backend development. <br>
+- 🤝 I possess skills in teamwork, time management, and problem-solving, which allows me to effectively collaborate on group projects. <br>
+- 📽️ Outside of programming, I'm passionate about video editing and cinema! <br>
+- 🚀 I'm always seeking new challenges and opportunities, so if you want to know more about me or how I can help with your project, feel free to get in touch!
   
-  - 👨‍💻 Sou desenvolvedor web Fullstack em formação na Trybe e atualmente estou aprofundando meus conhecimentos em Backend. <br>
-  - 🤝 Tenho habilidades em trabalho em equipe, gestão de tempo e solução de problemas, o que me permite colaborar efetivamente em projetos em grupo. <br> 
-  - 📽️ Fora da programação, sou apaixonado por edição de vídeo e cinema! <br>
-  - 🚀 Estou sempre em busca de novos desafios e oportunidades, por isso, se quiser saber mais sobre mim ou como posso ajudar em seu projeto, sinta-se à vontade para entrar em contato!
+  <a align="center" href="https://duarte-dot.surge.sh"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="30px" target="_blank"></a>
+  
 </p>
 </div>
 
-## 🔥 Linguagens e ferramentas
+## 🔥 Languages and Tools
 <p>
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="25px">
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="25px">
@@ -36,10 +39,6 @@ Meu nome é Gabriel Duarte, tenho 20 anos. <br> <br>
 ## 📈 GitHub Stats
 ![Duarte-dot's GitHub stats](https://github-readme-stats.vercel.app/api?username=duarte-dot&show_icons=true&theme=dracula)
 
-## 👥 Contato
-
-<p align="center">
-<a href="https://www.linkedin.com/in/duarte-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="mailto:padna8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="mailto:gabrieldvr@outlook.com"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"</a>
-</p>
+## 👥 Contact
+<a align="center" href="mailto:gabrieldvr@outlook.com"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" height="30px" target="_blank"></a>
+<a align="center" href="https://www.linkedin.com/in/duarte-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" target="_blank"></a>
