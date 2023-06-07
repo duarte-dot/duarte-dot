@@ -1,7 +1,7 @@
 ### Oi 👋 
 
 <div>
-  <img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e47z2pgmv6xdwhmxml25c3bb884l4vq5lwbyb3nm6sq&rid=giphy.gif&ct=s" width="350" align="right" style="margin-left: 20px;">
+  <img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e47z2pgmv6xdwhmxml25c3bb884l4vq5lwbyb3nm6sq&rid=giphy.gif&ct=s" width="350" align="right" style="margin-left: 50px;">
   <p align="left">
     Meu nome é Gabriel Duarte e tenho 20 anos. <br> <br>
     - 👨‍💻 Sou um desenvolvedor web FullStack em formação na Trybe, atualmente focado em aprofundar meus conhecimentos em desenvolvimento Backend. <br> <br>
