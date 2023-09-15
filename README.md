@@ -4,7 +4,7 @@
   <img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e47z2pgmv6xdwhmxml25c3bb884l4vq5lwbyb3nm6sq&rid=giphy.gif&ct=s" width="350" align="right" style="margin-left: 50px;">
   <p align="left">
     Meu nome é Gabriel Duarte e tenho 20 anos. <br> <br>
-    - 👨‍💻 Sou um Desenvolvedor Web Fullstack com conhecimentos em Frontend e Backend, atualmente me aprofundando um pouco mais em ciência da computação. <br> <br>
+    - 👨‍💻 Sou um Desenvolvedor Web Fullstack, atualmente me aprofundando um pouco mais em ciência da computação. <br> <br>
     - 📽️ Além da programação, sou apaixonado por edição de vídeos e cinema! (meu filme preferido é Tudo em Todo o Lugar ao Mesmo Tempo 💫) <br> <br>
     - 🚀 Já trabalhei como jovem aprendiz na área administrativa, mas estou em busca de uma primeira oportunidade na área de tecnologia. Sinta-se à vontade para entrar em contato!
     <br> <br> <br>
