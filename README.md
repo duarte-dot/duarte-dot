@@ -6,7 +6,7 @@
     Meu nome é Gabriel Duarte e tenho 20 anos. <br> <br>
     - 👨‍💻 Sou um Desenvolvedor Web Fullstack, atualmente me aprofundando um pouco mais em ciência da computação. <br> <br>
     - 📽️ Além da programação, sou apaixonado por edição de vídeos e cinema! (meu filme preferido é Tudo em Todo o Lugar ao Mesmo Tempo 💫) <br> <br>
-    - 🚀 Atualmente trabalho como Desenvolvedor Web utilizando Angular e PHP/Laravel, e tentando desenvolver alguns projetos pessoais nas horas vagas ✨
+    - 🚀 Atualmente trabalho como Desenvolvedor Web utilizando Angular e PHP/Laravel, e tento desenvolver alguns projetos pessoais nas horas vagas ✨
     <br> <br> <br>
     <a align="center" href="https://duarte-dot.surge.sh"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="30px" target="_blank"></a>
   </p>
