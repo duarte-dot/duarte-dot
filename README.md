@@ -1,13 +1,13 @@
-### Oi 👋 
+### Hi 👋 
 
 <div>
   <img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e47z2pgmv6xdwhmxml25c3bb884l4vq5lwbyb3nm6sq&rid=giphy.gif&ct=s" width="350" align="right" style="margin-left: 50px;">
   <p align="left">
-    Meu nome é Gabriel Duarte e tenho 20 anos. <br> <br>
-    - 👨‍💻 Sou um Desenvolvedor Fullstack, atualmente me aprofundando um pouco mais em ciência da computação. <br> <br>
-    - 📽️ Além da programação, sou apaixonado por edição de vídeos e cinema! (meu filme preferido é Tudo em Todo o Lugar ao Mesmo Tempo 💫) <br> <br>
-    - 🚀 No momento estou trabalhando como Desenvolvedor Web utilizando Angular e PHP/Laravel, e tentando desenvolver alguns projetos pessoais nas horas vagas
-    <br> <br> <br>
+   I’m a developer of anything. I’ve been interested in game, website, software, and mobile development, knowing a bit about all of it and passionate about what I do. <br> <br>
+   Currently, I’m more focused on web and mobile development, creating projects using React, React Native, and Node.
+    <br> <br>
+   If you don’t find me coding, you’ll probably find me enjoying a coffee at Starbucks ☕️, spending time with my family 👩🏻‍❤️‍👨🏻, or at the gym 💪.
+    <br> <br>
     <a align="center" href="https://duarte-dot.surge.sh"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="30px" target="_blank"></a>
   </p>
 </div>
@@ -16,7 +16,7 @@
 
 <br>
 
-## 🔥 Linguagens e ferramentas
+## 🔥 Languages and Tools
 
 <p align="center">
   <table>
@@ -51,13 +51,13 @@
       </td>
     </tr>
     <tr>
-      <td><strong>banco de dados</strong></td>
+      <td><strong>database</strong></td>
       <td>
         <img height="25px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" width="75px"/>
       </td>
     </tr>
     <tr>
-      <td><strong>testes</strong></td>
+      <td><strong>tests</strong></td>
       <td>
         <img height="25px" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" width="65px"/>
         <img height="25px" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" width="135px"/>
@@ -65,7 +65,7 @@
       </td>
     </tr>
     <tr>
-      <td><strong>desenvolvimento</strong></td>
+      <td><strong>development</strong></td>
       <td>
         <img height="25px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="160px"/>
         <img height="25px" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" width="120px"/>
@@ -73,7 +73,7 @@
       </td>
     </tr>
     <tr>
-      <td><strong>conteinerização</strong></td>
+      <td><strong>containerization</strong></td>
       <td>
         <img height="25px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" width="85px"/>
       </td>
@@ -81,7 +81,7 @@
   </table>
 </p>
 
-## 👥 Contato
+## 👥 Contact
 <p>📧 Email: gabrieldvr@outlook.com</p>
-<p>📱 Celular: (21) 97568-1618</p>
+<p>📱 Number/Whatsapp: (21) 97568-1618</p>
 <a align="center" href="https://www.linkedin.com/in/duarte-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" target="_blank"></a>
