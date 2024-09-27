@@ -4,7 +4,7 @@
   <img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e47z2pgmv6xdwhmxml25c3bb884l4vq5lwbyb3nm6sq&rid=giphy.gif&ct=s" width="350" align="right" style="margin-left: 50px;">
   <p align="left">
    I’m a developer of anything. I’ve been interested in game, website, software, and mobile development, knowing a bit about all of it and passionate about what I do. <br> <br>
-   Currently, I am focused on learning software engineering, deepening my knowledge of development best practices, design patterns, and web and mobile system architectures. I am primarily studying Java to enhance my skills further.
+   Currently, I am studying Information Systems at Veiga de Almeida University (UVA), with a strong focus on improving my skills in software engineering. I am dedicating myself to deepening my knowledge of best development practices, design patterns, and system architectures, both for web and mobile.
     <br> <br>
    If you don’t find me coding, you’ll probably find me enjoying a coffee at Starbucks ☕️, spending time with my family 👩🏻‍❤️‍👨🏻, or at the gym 💪.
     <br> <br>
