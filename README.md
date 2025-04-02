@@ -8,7 +8,7 @@
     <br> <br>
    If you don’t find me coding, you’ll probably find me enjoying a coffee at Starbucks ☕️, spending time with my family 👩🏻‍❤️‍👨🏻, or at the gym 💪.
     <br> <br>
-    <a align="center" href="https://duarte-dot.surge.sh"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="30px" target="_blank"></a>
+    <a align="center" href="https://duarte-dot.com.br"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="30px" target="_blank"></a>
   </p>
 </div>
 
@@ -28,8 +28,11 @@
         <img height="25px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="105px"/>
         <img height="25px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="80px"/>
         <img height="25px" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" width="90px"/>
-        <img height="25px" src="https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white" width="85px"/>
+        <img height="25px" src="https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white" width="95px"/>
         <img height="25px" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" width="75px"/>
+        <img height="25px" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" width="90px"/>
+        <img height="25px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" width="100px"/>
+        <img height="25px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="100px"/>
       </td>
     </tr>
     <tr>
@@ -43,18 +46,27 @@
         <img height="25px" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" width="95px"/>
         <img height="25px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" width="100px"/>
         <img height="25px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" width="70px"/>
+        <img height="25px" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" width="120px"/>
+        <img height="25px" src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" width="100px"/>
+        <img height="25px" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" width="110px"/>
+        <img height="25px" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" width="90px"/>
       </td>
     </tr>
     <tr>
       <td><strong>orm</strong></td>
       <td>
         <img height="25px" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" width="100px"/>
+        <img height="25px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" width="95px"/>
       </td>
     </tr>
     <tr>
       <td><strong>database</strong></td>
       <td>
         <img height="25px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" width="75px"/>
+        <img height="25px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" width="95px"/>
+        <img height="25px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="110px"/>
+        <img height="25px" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" width="80px"/>
+        <img height="25px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="100px"/>
       </td>
     </tr>
     <tr>
