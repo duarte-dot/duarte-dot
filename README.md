@@ -104,5 +104,5 @@
 
 ## 👥 Contact
 <p>📧 Email: gabrieldvr@outlook.com</p>
-<p>📱 Number/Whatsapp: (21) 97568-1618</p>
+<p>📱 Number/Whatsapp: +55 (21) 97568-1618 | +55 (21) 99575-7262</p>
 <a align="center" href="https://www.linkedin.com/in/gabriel-duarte-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" target="_blank"></a>
