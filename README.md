@@ -73,7 +73,7 @@
       <td><strong>tests</strong></td>
       <td>
         <img height="25px" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" width="65px"/>
-        <img height="25px" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" width="135px"/>
+        <img height="25px" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" width="150px"/>
         <img height="25px" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" width="75px"/>
       </td>
     </tr>
